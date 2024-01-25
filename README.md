@@ -1,3 +1,1 @@
-# demo-git-github
-# text adaugat ulterior
-# test adaugat din platforma Github
+# demo-git-github-commit

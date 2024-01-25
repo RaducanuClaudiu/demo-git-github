@@ -6,3 +6,10 @@ body {
     height: 100vh;
     color: white;
 }
+
+h2 {
+    color: wheat;
+}
+p {
+    color: black;
+}
